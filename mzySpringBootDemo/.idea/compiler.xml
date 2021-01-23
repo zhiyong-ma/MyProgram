@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mzy-biz" />
+        <module name="mzy-access" />
+        <module name="mzySpringBootDemo" />
+        <module name="mzy-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mzy-access" target="1.8" />
+      <module name="mzy-biz" target="1.8" />
+      <module name="mzy-domain" target="1.8" />
+      <module name="mzySpringBootDemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mzy-access" options="-parameters" />
+      <module name="mzy-biz" options="-parameters" />
+      <module name="mzy-domain" options="-parameters" />
+      <module name="mzySpringBootDemo" options="-parameters" />
+    </option>
+  </component>
+</project>

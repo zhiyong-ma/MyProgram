@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mzy-access/mzy-access.iml" filepath="$PROJECT_DIR$/mzy-access/mzy-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mzy-biz/mzy-biz.iml" filepath="$PROJECT_DIR$/mzy-biz/mzy-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mzy-domain/mzy-domain.iml" filepath="$PROJECT_DIR$/mzy-domain/mzy-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mzySpringBootDemo.iml" filepath="$PROJECT_DIR$/mzySpringBootDemo.iml" />
+    </modules>
+  </component>
+</project>
