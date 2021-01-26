@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ba18607-34f4-477d-81aa-4d447f4e4d58" name="Default Changelist" comment="" />
+    <list default="true" id="5ba18607-34f4-477d-81aa-4d447f4e4d58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mzySpringBootDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mzySpringBootDemo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -26,18 +34,21 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1moqx0FbgOPK2Prbd9Bu4ZBv1Nf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/gsProject/crm-business" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -87,6 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610170533489</updated>
       <workItem from="1610170537839" duration="3909000" />
+      <workItem from="1611669686432" duration="800000" />
     </task>
     <servers />
   </component>
@@ -122,6 +134,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="269" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610188834402" />
+    <state x="2265" y="78" key="SettingsEditor" timestamp="1611670983123">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2265" y="78" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611670983123" />
     <state x="2452" y="237" key="run.anything.popup" timestamp="1610187903186">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
